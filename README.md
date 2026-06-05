@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    width="800"
+    height="300"
+    alt="banner"
+    src="https://github.com/user-attachments/assets/d3af8109-8253-4faf-9eb1-eb1a1ebfab8c"
+  />
+</p>
 <h1 align="center">Hello. I'm Violet</a> 
 <img src= height="32"/></h1>
 <h3 align="center">Computer science student, beginner full-stack developer from Russia 🇷🇺</h3>
